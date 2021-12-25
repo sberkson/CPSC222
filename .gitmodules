@@ -1,0 +1,24 @@
+[submodule "da1-sberkson"]
+	path = da1-sberkson
+	url = https://github.com/GonzagaCPSC222/da1-sberkson
+[submodule "da2-sberkson"]
+	path = da2-sberkson
+	url = https://github.com/GonzagaCPSC222/da2-sberkson
+[submodule "da3-sberkson"]
+	path = da3-sberkson
+	url = https://github.com/GonzagaCPSC222/da3-sberkson
+[submodule "da4-sberkson"]
+	path = da4-sberkson
+	url = https://github.com/GonzagaCPSC222/da4-sberkson
+[submodule "da5-sberkson"]
+	path = da5-sberkson
+	url = https://github.com/GonzagaCPSC222/da5-sberkson
+[submodule "da6-sberkson"]
+	path = da6-sberkson
+	url = https://github.com/GonzagaCPSC222/da6-sberkson
+[submodule "da7-sberkson"]
+	path = da7-sberkson
+	url = https://github.com/GonzagaCPSC222/da7-sberkson
+[submodule "CPSC222FinalProject"]
+	path = CPSC222FinalProject
+	url = https://github.com/CPSC222FinalProject.git
